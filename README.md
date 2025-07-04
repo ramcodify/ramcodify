@@ -1,7 +1,7 @@
 <!-- Banner with reduced height -->
 <!-- Banner with reduced height only -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" height="800" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" height="500" />
 </p>
 
 
