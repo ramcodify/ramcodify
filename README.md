@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
 
 <h3 align="center">
-  I'm a passionate Full Stack Developer who loves turning ideas into reality through elegant code.  
-  <br />
-  My journey in tech started with a curiosity about how things work on the internet,  
-  and now I'm building the very things that once fascinated me.
+I'm a passionate Full Stack Developer who loves turning ideas into reality through elegant code.  
+<br />
+My journey in tech started with a curiosity about how things work on the internet,  
+and now I'm building the very things that once fascinated me.
 </h3>
 
 <!-- Profile Views -->
@@ -30,73 +30,48 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/raamvignesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
 
-<!-- Languages and Tools -->
+<!-- Tools Section -->
 <h3 align="center">🛠️ Languages and Tools</h3>
 
-<style>
-  .section-title {
-    text-align: center;
-    font-size: 1.3rem;
-    color: #0e75b6;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-  .tool-grid {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 30px;
-    padding: 10px 0;
-  }
-  .tool-grid a img {
-    width: 50px;
-    height: 50px;
-    transition: transform 0.2s ease;
-  }
-  .tool-grid a:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
 <!-- Frontend -->
-<div class="section-title">🎨 Frontend</div>
-<div class="tool-grid">
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <!-- Backend -->
-<div class="section-title">🧩 Backend</div>
-<div class="tool-grid">
+<h4 align="center">🧩 Backend</h4>
+<p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <!-- Database -->
-<div class="section-title">💾 Database</div>
-<div class="tool-grid">
+<h4 align="center">💾 Database</h4>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-</div>
+</p>
