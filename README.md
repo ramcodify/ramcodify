@@ -1,20 +1,18 @@
-<!-- Banner with reduced height -->
-<!-- Banner with reduced height only -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" height="300" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" width="100%" height ="250"/>
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | AI Prompt Engineer</h3>
 
 ---
 
-<!-- About + GIF side by side -->
+<!-- About and GIF in Table Layout -->
 <table>
   <tr>
     <td>
-
+    
 ### 🙋‍♂️ About Me
 
 I'm a passionate Full Stack Developer who loves turning ideas into reality through elegant code.  
