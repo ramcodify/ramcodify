@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner with reduced height -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" style="height: 300px; width: 100%; object-fit: cover;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
@@ -8,11 +8,11 @@
 
 ---
 
-<!-- About and GIF in Table Layout -->
+<!-- About + GIF side by side -->
 <table>
   <tr>
     <td>
-    
+
 ### 🙋‍♂️ About Me
 
 I'm a passionate Full Stack Developer who loves turning ideas into reality through elegant code.  
