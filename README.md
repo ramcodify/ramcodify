@@ -1,7 +1,9 @@
 <!-- Banner with reduced height -->
+<!-- Banner with reduced height only -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" style="height: 300px; width: 100%; object-fit: cover;" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" height="250" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | AI Prompt Engineer</h3>
