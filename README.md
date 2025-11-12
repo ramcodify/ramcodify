@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | AI Prompt Engineer</h3>
+<h3 align="center">Front-End Developer | Data Analyst | Full Stack - Vibe coder</h3>
 
 ---
 
@@ -22,7 +22,6 @@ and now I'm building the very things that fascinated me.
 ### 🎯 What I'm Focused On
 
 - 💻 Building modern full stack applications using **React**, **Node.js**, and **MongoDB**
-- 🎨 Designing clean and intuitive **UI/UX interfaces**
 - 🤖 Crafting powerful prompts and workflows in **AI tools** like ChatGPT
 - 🌱 Always learning & sharing knowledge in the dev community
 
