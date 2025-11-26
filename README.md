@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" width="100%" height ="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*x4rQFjfi0iK3gS1T.gif" width="100%" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
-<h3 align="center">Front-End Developer | Data Analyst | Full Stack - Vibe coder</h3>
+<h3 align="center">Front-End Developer | Data Analyst | Full-Stack (Gen AI)</h3>
 
 ---
 
@@ -12,18 +12,19 @@
 <table>
   <tr>
     <td>
-    
+
 ### 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Developer who loves turning ideas into reality through elegant code.  
-My journey in tech started with a curiosity about how things work on the internet,  
-and now I'm building the very things that fascinated me.
+I'm an AI student and **Full-Stack (Gen AI) Developer** passionate about creating clean,  
+modern, and user-friendly digital experiences. I love blending **frontend design**,  
+**backend logic**, and **AI-driven development** to build meaningful applications.
 
-### 🎯 What I'm Focused On
+### 🎯 What I Work On
 
-- 💻 Building modern full stack applications using **React**, **Node.js**, and **MongoDB**
-- 🤖 Crafting powerful prompts and workflows in **AI tools** like ChatGPT
-- 🌱 Always learning & sharing knowledge in the dev community
+- 💻 Building smart full-stack apps using **React**, **Node.js**, and **MongoDB**  
+- 🤖 Integrating **Gen AI** into development to create intelligent features  
+- 📊 Exploring **data analysis** and real-world problem solving  
+- 🌱 Always learning new tools, ideas, and technologies  
 
 </td>
     <td>
@@ -34,34 +35,10 @@ and now I'm building the very things that fascinated me.
 
 ---
 
-## 🛠️ My Tech Stack
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-</p>
-
-### 🧩 Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-</p>
-
-### 💾 Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-vignesh-8b3a80291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
