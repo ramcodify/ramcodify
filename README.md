@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramvignesh</h1>
-<h3 align="center">Front-End Developer | Data Analyst | Full-Stack (Gen AI)</h3>
+<h3 align="center">Front-End Developer | Data Analyst | Full-Stack (Vibe Coding)</h3>
 
 ---
 
@@ -15,13 +15,13 @@
 
 ### 🙋‍♂️ About Me
 
-I'm an AI student and **Full-Stack (Gen AI) Developer** passionate about creating clean,  
+I'm an AI student and **Full-Stack (Vibe Coding) Developer** passionate about creating clean,  
 modern, and user-friendly digital experiences. I love blending **frontend design**,  
 **backend logic**, and **AI-driven development** to build meaningful applications.
 
 ### 🎯 What I Work On
 
-- 💻 Building smart full-stack apps using **React**, **Node.js**, and **MongoDB**  
+- 💻 Building smart full-stack apps using **React**, **Node.js**, **MongoDB** ,**HTML**, **CSS**, and **VIBE CODING**  
 - 🤖 Integrating **Gen AI** into development to create intelligent features  
 - 📊 Exploring **data analysis** and real-world problem solving  
 - 🌱 Always learning new tools, ideas, and technologies  
