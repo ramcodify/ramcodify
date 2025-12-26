@@ -15,9 +15,10 @@
 
 ### 🙋‍♂️ About Me
 
-I'm an AI student and **Full-Stack (Vibe Coding) Developer** passionate about creating clean,  
-modern, and user-friendly digital experiences. I love blending **frontend design**,  
-**backend logic**, and **AI-driven development** to build meaningful applications.
+Entry-level Full-Stack Developer and Data Analyst pursuing B.Tech in AI & DS. Hands-on
+experience building responsive web applications using DHTML React.js, and Node.js, with
+practical exposure to Power BI and Excel for data analysis. A fast-learning, execution-focused
+who enjoys building real, usable products rather than just academic projects.
 
 ### 🎯 What I Work On
 
@@ -38,7 +39,7 @@ modern, and user-friendly digital experiences. I love blending **frontend design
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ram-vignesh-8b3a80291/" target="_blank">
+  <a href="https://www.linkedin.com/in/raamvignesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
